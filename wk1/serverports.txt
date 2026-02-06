@@ -1,0 +1,17 @@
+A server port is a logical communication endpoint on a server taht is used to identify a specific process or service listening 
+for network connections
+
+it is a range of 0 to 65535
+
+it requires 16 bits
+
+21 FTP
+22 SSH
+23 Telnet
+25 SMTP
+53 DNS
+80 HTTP
+110 POP3
+143 IMAP
+443 HTTPS
+330 MySQL
